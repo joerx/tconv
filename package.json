@@ -1,0 +1,27 @@
+{
+  "name": "tconv",
+  "version": "1.0.0",
+  "description": "Simple CLI time zone converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tconv": "index.js"
+  },
+  "keywords": [],
+  "author": "Joerg Henning <henning.joerg@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.13.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joerx/tconv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joerx/tconv/issues"
+  },
+  "homepage": "https://github.com/joerx/tconv#readme"
+}
